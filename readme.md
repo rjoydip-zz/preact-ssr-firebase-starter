@@ -5,8 +5,6 @@
 
 Preact SSR firebase starter.
 
-> Note: Tested locally
-
 ## Installation
 
 ```
